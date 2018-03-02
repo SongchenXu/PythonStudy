@@ -1,1 +1,1 @@
-#!/usr/bin/python# -*- coding: UTF-8 -*-# Python 2018.3.2# Python中的函数(方法)
+#!/usr/bin/python# -*- coding: UTF-8 -*-# Python 2018.3.2# Python中的函数(方法)# 调用函数 1.0''' Python中有许多内置的有用的函数，在需要时只需要使用某些函数时，直接调用就可以了 ...    Python中调用一个函数，需要知道这个函数的名字和函数需要的参数 ...    abs() 绝对值函数 '''if abs(-100)==abs(100):    print('-100的绝对值是100')''' Python内置常用函数包括数据类型转换函数等 '''
